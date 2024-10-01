@@ -1,19 +1,15 @@
-# Creative Coding && Projections
+# Kreative Kode
 ==================================
 
 A module about designing graphics with code where messy fleshy curious humans learn programming skills in a non-intimidating environment. The emphasis is on experimentation, collaboration, scrappy creative strategies (not perfect code!) and being-in-process instead of outcome-flushing. 
 
-Code is a mesmerizing tool for visual expression. From generative graphics to image manipulation to collage making to sonic abstraction, the possibilities of designing through algorythmic composition are extraordinary. We will explore them in this 3 week module with the following thematic structure:
+Code is a mesmerizing tool for visual expression. From generative graphics to image manipulation to collage making to sonic abstraction, the possibilities of designing through algorythmic composition are extraordinary. We will explore them in this 4 week module.
 
-* 2.Sept to 6.Sept -> IntroP5.js
-* 9.Sept to 13.Sept -> Peer.coding  
-* 16.Sept to 20.Sept -> Aker x Elvelangs
 _______________________________________________
 _______________________________________________
 
 
 ## IntroP5.js
-2.Sept to 6.Sept
 
 This week we'll have fun with [P5.js](https://p5js.org/) and learn the basics of this javascript library for creative coding with tons of examples. 
 
@@ -77,14 +73,10 @@ _Resources:_
 * Wonderfully inspirational list : https://github.com/ITPNYU/ICM-2017/wiki/Inspiration
 
 ## Peer.coding 
-9.Sept to 13.Sept
 
 Invite ChatGPT into your peer coding ensemble.
 
 * Extra nice miro board by Daniel on connecting Microbit and P5.js: https://miro.com/app/board/uXjVMs5DZE0=/?share_link_id=811013508930
-
-## Elvelangs
-15.Sept to 21.Sept
 
 Cut/Copy/Paste code from everywhere all at once! -> Remix! 
 
